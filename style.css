@@ -9,3 +9,23 @@ body{
 .Intro{
     margin-top: 80px;
 }
+
+.subtitulos{
+    font-size: 25px;
+    padding-top: 40px;
+    color: lightblue;
+}
+
+p{
+    margin-top:0; margin-bottom:0;
+    font-size: 18px;
+}
+
+.titulo{
+    background-color: lightblue;
+    padding-top: 20px;
+    color: black;
+    position: fixed;
+    width: 98%;
+    top: 0px;
+}
