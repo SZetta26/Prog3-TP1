@@ -48,3 +48,8 @@ p{
 h4, li{
     color: green;
 }
+
+ul.navega li{
+    display: inline;
+    color: white;
+}
